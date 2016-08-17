@@ -1,0 +1,9 @@
+{
+  "name": "corespring-pie-multiple-choice-ng2",
+  "version" : "1.0.0",
+  "main" : "corespring-pie-multiple-choice-ng2.html",
+  "dependencies": {
+    "pie-angular-two-support" : "1.0.0",
+    "lodash"  : "~4.11.2"
+  }
+}
